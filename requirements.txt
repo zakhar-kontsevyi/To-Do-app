@@ -1,5 +1,16 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-aiosqlite
-pydantic
+rich-toolkit         0.20.3
+rignore              0.8.1
+sentry-sdk           2.68.1
+shellingham          1.5.4
+six                  1.17.0
+SQLAlchemy           2.0.52
+starlette            1.6.0
+typer                0.27.2
+typing_extensions    4.16.0
+typing-inspection    0.4.4
+urllib3              2.7.0
+uvicorn              0.52.4
+uvloop               0.22.1
+watchfiles           1.2.0
+websockets           17.1
+Werkzeug             3.1.8
